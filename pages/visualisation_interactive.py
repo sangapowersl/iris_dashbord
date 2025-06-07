@@ -22,3 +22,5 @@ with tab2:
     fig2, ax2 = plt.subplots()
     sns.boxplot(x=filtered_df[col], ax=ax2)
     st.pyplot(fig2)
+
+#git push -u origin main
